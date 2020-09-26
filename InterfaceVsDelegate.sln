@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceVsDelegate", "InterfaceVsDelegate\InterfaceVsDelegate.csproj", "{C2B7B986-7B1D-40F5-95AA-D72318934FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceVsDelegateTests", "InterfaceVsDelegateTests\InterfaceVsDelegateTests.csproj", "{1ECB0DCE-F0C6-4746-A603-8123F8B22BAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B7B986-7B1D-40F5-95AA-D72318934FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B7B986-7B1D-40F5-95AA-D72318934FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B7B986-7B1D-40F5-95AA-D72318934FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B7B986-7B1D-40F5-95AA-D72318934FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ECB0DCE-F0C6-4746-A603-8123F8B22BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ECB0DCE-F0C6-4746-A603-8123F8B22BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ECB0DCE-F0C6-4746-A603-8123F8B22BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ECB0DCE-F0C6-4746-A603-8123F8B22BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
