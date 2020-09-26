@@ -1,0 +1,1 @@
+Code for blog post: https://kciechowski.hashnode.dev/interface-with-one-implementation-give-delegate-a-try
